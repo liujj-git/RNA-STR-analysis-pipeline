@@ -165,5 +165,5 @@ If you use this code in your work, please cite our manuscript (citation details 
 ## Contact
 
 For questions or issues, please open an issue on this GitHub repository or contact the corresponding author:  
-[Your Name / Email – to be added]
+liujj258@mail2.sysu.edu.cn
 ```
