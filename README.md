@@ -1,4 +1,3 @@
-```markdown
 # RNA-STR analysis pipeline
 
 This repository contains the R scripts used for the transcriptome‑wide characterization, genotyping reliability assessment, and forensic/disease‑related analysis of polymorphic short tandem repeats (STRs) in human blood, as described in:
